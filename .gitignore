@@ -1,0 +1,20 @@
+# terraform related
+builds/
+.terraform*
+terraform.tfstate*
+
+# editor
+.vscode
+
+# python
+__pycache__
+.ipynb_checkpoints/
+*.egg-info/
+*.lock
+build/
+dist/
+
+# tmp
+function_packages
+layers
+build

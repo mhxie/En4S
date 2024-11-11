@@ -1,0 +1,7 @@
+# for jiffy
+thrift
+numpy==1.26.4
+opencv-python-headless==4.5.5.64
+imageio
+imageio[ffmpeg]
+imageio[opencv]
