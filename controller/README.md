@@ -1,4 +1,4 @@
-## En4S Controller
+## En4S Control Plane
 
 We are working on another paper that will be published soon. Stay tuned!
 

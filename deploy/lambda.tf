@@ -19,7 +19,7 @@ module "terasort" {
     }, {
       path = "../app/terasort/access.py",
     }, {
-      path = "../lib/",
+      path = "../build/",
     }, {
     path = "../app/asynces.py",
     }
@@ -65,7 +65,7 @@ module "etl" {
     }, {
       path = "../app/ETL/helper.py",
     }, {
-      path = "../lib/",
+      path = "../build/",
     }, {
     path = "../app/asynces.py",
     }
